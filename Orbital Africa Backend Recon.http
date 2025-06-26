@@ -1,0 +1,6 @@
+@Orbital_Africa_Backend_Recon_HostAddress = http://localhost:5051
+
+GET {{Orbital_Africa_Backend_Recon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
